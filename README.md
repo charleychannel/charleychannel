@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charleychannel
+- 👋 Hi, I’m @charlyne Yowa Chay
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning to code using python 
 - 💞️ I’m looking to collaborate on artificial intelligence area
